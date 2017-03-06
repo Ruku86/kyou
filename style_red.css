@@ -1,0 +1,59 @@
+@import url(http://dl.dropbox.com/u/91116541/what_red/style.css);
+
+body {
+	background: #000 url(http://dl.dropbox.com/u/91116541/what_red/body.jpg) repeat-x;
+	background-position: top center;
+	background-attachment: fixed;
+	background-size: 100% 100%;	
+}
+
+#footer {
+	color: #e0d5d9;
+}
+
+#menu {
+	background-color: #f1efe9;
+	}
+	#menu ul li {
+		background-image: url(http://dl.dropbox.com/u/91116541/what_red/nav_hover_red.gif);
+		background-color: #e4e0d4;
+		}
+
+	#menu ul li a {
+		background-image: url(http://dl.dropbox.com/u/91116541/what_red/nav_text_red.png);
+		}
+
+		#menu ul li a.active, #menu ul li a:hover,
+		#index #nav_index a,
+		#torrents #nav_torrents a,
+		#collage #nav_collages a,
+		#requests #nav_requests a,
+		#forums #nav_forums a,
+		#top10 #nav_top10 a,
+		#rules #nav_rules a,
+		#wiki #nav_wiki a,
+		#staff #nav_staff a { background-color: #f1efe9; }
+		
+
+#userinfo {
+	color: #e0d5d9;
+	}
+
+	#userinfo_stats li span {
+		color: #00CCFF;
+	}
+
+
+#userinfo a {
+	color: #e0d5d9;
+	}
+	#userinfo_username li,
+	#userinfo_username li a,
+	#userinfo_major li,
+	#userinfo_major li a {
+		color: #f7f6f2;
+	}
+
+	#searchbars input {
+		border: 1px solid #511b29;
+		}
