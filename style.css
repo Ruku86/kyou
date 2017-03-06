@@ -1,14 +1,14 @@
 /* Layout (Torrents page) */
 
 /* We're going to opt for the category icon method for now, tags_* is also available */
-.cats_applications { width: 28px; height: 28px; background: url('http://dl.dropbox.com/u/91116541/what_red/apps.png') no-repeat center center; }
-.cats_audiobooks { width: 28px; height: 28px; background: url('http://dl.dropbox.com/u/91116541/what_red/audiobook.png') no-repeat center center; }
-.cats_comedy { width: 28px; height: 28px; background: url('http://dl.dropbox.com/u/91116541/what_red/comedy.png') no-repeat center center; }
-.cats_comics { width: 28px; height: 28px; background: url('http://dl.dropbox.com/u/91116541/what_red/comics.png') no-repeat center center; }
-.cats_ebooks { width: 28px; height: 28px; background: url('http://dl.dropbox.com/u/91116541/what_red/ebook.png') no-repeat center center; }
-.cats_elearningvideos { width: 28px; height: 28px; background: url('http://dl.dropbox.com/u/91116541/what_red/elearning.png') no-repeat center center; }
+.cats_applications { width: 28px; height: 28px; background: url('https://ruku86.github.io/kyou/apps.png') no-repeat center center; }
+.cats_audiobooks { width: 28px; height: 28px; background: url('https://ruku86.github.io/kyou/audiobook.png') no-repeat center center; }
+.cats_comedy { width: 28px; height: 28px; background: url('https://ruku86.github.io/kyou/comedy.png') no-repeat center center; }
+.cats_comics { width: 28px; height: 28px; background: url('https://ruku86.github.io/kyou/comics.png') no-repeat center center; }
+.cats_ebooks { width: 28px; height: 28px; background: url('https://ruku86.github.io/kyou/ebook.png') no-repeat center center; }
+.cats_elearningvideos { width: 28px; height: 28px; background: url('https://ruku86.github.io/kyou/elearning.png') no-repeat center center; }
 
-.cats_music { width: 28px; height: 28px; background: url('http://dl.dropbox.com/u/91116541/what_red/music.png') no-repeat center center; }
+.cats_music { width: 28px; height: 28px; background: url('https://ruku86.github.io/kyou/music.png') no-repeat center center; }
 /* Global */
 * {
 	padding: 0em;
@@ -20,7 +20,7 @@ html {
 }
 
 body {
-	background: #e5e2d9 url(http://dl.dropbox.com/u/91116541/what_red/body.jpg);
+	background: #e5e2d9 url(https://ruku86.github.io/kyou/body.jpg);
 	font-family: helvetica, arial, sans-serif;
 	font-size: 8pt;
 	color: #000;
@@ -146,7 +146,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 #logo {
 	width: 192px;
 	height: 59px;
-	background: url('http://dl.dropbox.com/u/91116541/what_red/logo.png') no-repeat top left;
+	background: url('https://ruku86.github.io/kyou/logo.png') no-repeat top left;
 	margin: 36px 0 0 23px;
 	position: absolute;
 	z-index: 2;
@@ -179,7 +179,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 	#menu ul li {
 		float: left;
 		margin: 0;
-		background-image: url(http://dl.dropbox.com/u/91116541/what_red/nav_hover.gif);
+		background-image: url(https://ruku86.github.io/kyou/nav_hover.gif);
 		background-repeat: repeat-x;
 		background-position: 0 30px;
 		border-left: 1px solid white;
@@ -189,7 +189,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 	#menu ul li a {
 		display: block;
-		background-image: url(http://dl.dropbox.com/u/91116541/what_red/nav_text.png);
+		background-image: url(https://ruku86.github.io/kyou/nav_text.png);
 		background-repeat: no-repeat;
 		height: 35px;
 		text-indent: -9999px;
@@ -218,7 +218,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 		#nav_wiki a { background-position: -577px 0; width: 57px; }
 		#nav_staff a { background-position: -635px 0; width: 62px; }
 		
-		.last_read {background:url(http://dl.dropbox.com/u/91116541/what_red/go_last_read.png) transparent no-repeat right center;margin-left:4px;}
+		.last_read {background:url(https://ruku86.github.io/kyou/go_last_read.png) transparent no-repeat right center;margin-left:4px;}
 		.last_read>a {display:block;height:13px;width:15px;}
 
 #userinfo {
@@ -299,7 +299,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 		padding: 4px 2px 2px 10px;
 		font-size: 1em;
 		height: 16px;
-		background: #fff url(http://dl.dropbox.com/u/91116541/what_red/bg_inputs.gif) no-repeat;
+		background: #fff url(https://ruku86.github.io/kyou/bg_inputs.gif) no-repeat;
 		color: #959595;
 		}
 
@@ -355,7 +355,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 .alertbar a {
 	color: #555;
 	text-decoration: none;
-	background: url(http://dl.dropbox.com/u/91116541/what_red/error.png) no-repeat;
+	background: url(https://ruku86.github.io/kyou/error.png) no-repeat;
 	padding: 0 0 3px 20px;
 }
 .alertbar a:hover {
@@ -618,14 +618,14 @@ ul.poll li.graph {
 .show_torrents {
 	width: 28px;
 	height: 28px;
-	background: url('http://dl.dropbox.com/u/91116541/what_red/show.png') no-repeat center center;
+	background: url('https://ruku86.github.io/kyou/show.png') no-repeat center center;
 		opacity: .5;
 }
 
 .hide_torrents {
 	width: 28px;
 	height: 28px;
-	background: url('http://dl.dropbox.com/u/91116541/what_red/hide.png') no-repeat center center;
+	background: url('https://ruku86.github.io/kyou/hide.png') no-repeat center center;
 	opacity: .5;
 }
 
@@ -726,14 +726,14 @@ tr.group td {
 }
 /* Layout (Forums) */
 
-.unread_locked_sticky{background: url(http://dl.dropbox.com/u/91116541/what_red/locked_sticky_unread.png) no-repeat center center;}
-.read_locked_sticky{background: url(http://dl.dropbox.com/u/91116541/what_red/locked_sticky_read.png) no-repeat center center;}
-.read_sticky{background: url(http://dl.dropbox.com/u/91116541/what_red/sticky_read.png) no-repeat center center;}
-.unread_sticky{background: url(http://dl.dropbox.com/u/91116541/what_red/sticky_unread.png) no-repeat center center;}
-.unread_locked{background: url(http://dl.dropbox.com/u/91116541/what_red/locked_unread.png) no-repeat center center;}
-.read_locked{background: url(http://dl.dropbox.com/u/91116541/what_red/locked_read.png) no-repeat center center;}
-.unread{background: url(http://dl.dropbox.com/u/91116541/what_red/unread.png) no-repeat center center;}
-.read{background: url(http://dl.dropbox.com/u/91116541/what_red/read.png) no-repeat center center;}
+.unread_locked_sticky{background: url(https://ruku86.github.io/kyou/locked_sticky_unread.png) no-repeat center center;}
+.read_locked_sticky{background: url(https://ruku86.github.io/kyou/locked_sticky_read.png) no-repeat center center;}
+.read_sticky{background: url(https://ruku86.github.io/kyou/sticky_read.png) no-repeat center center;}
+.unread_sticky{background: url(https://ruku86.github.io/kyou/sticky_unread.png) no-repeat center center;}
+.unread_locked{background: url(https://ruku86.github.io/kyou/locked_unread.png) no-repeat center center;}
+.read_locked{background: url(https://ruku86.github.io/kyou/locked_read.png) no-repeat center center;}
+.unread{background: url(https://ruku86.github.io/kyou/unread.png) no-repeat center center;}
+.read{background: url(https://ruku86.github.io/kyou/read.png) no-repeat center center;}
 
 table.forum_post {
 	margin: 10px 0px;
@@ -815,7 +815,7 @@ ul .invitetree {
 #left_poll {
 	width: 2px;
 	height: 9px;
-	background: url('http://dl.dropbox.com/u/91116541/what_red/bar_left.gif') no-repeat center center;
+	background: url('https://ruku86.github.io/kyou/bar_left.gif') no-repeat center center;
 	float: left;
 	margin: 0px;
 	padding: 0px;
@@ -823,7 +823,7 @@ ul .invitetree {
 
 #center_poll {
 	height: 9px;
-	background: url('http://dl.dropbox.com/u/91116541/what_red/bar.gif') repeat;
+	background: url('https://ruku86.github.io/kyou/bar.gif') repeat;
 	float: left;
 	margin: 0px;
 	padding: 0px;
@@ -832,7 +832,7 @@ ul .invitetree {
 #right_poll {
 	width: 2px;
 	height: 9px;
-	background: url('http://dl.dropbox.com/u/91116541/what_red/bar_right.gif') no-repeat center center;
+	background: url('https://ruku86.github.io/kyou/bar_right.gif') no-repeat center center;
 	float: left;
 	margin: 0px;
 	padding: 0px;

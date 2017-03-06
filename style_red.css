@@ -1,7 +1,7 @@
-@import url(http://dl.dropbox.com/u/91116541/what_red/style.css);
+@import url(https://ruku86.github.io/kyou/style.css);
 
 body {
-	background: #000 url(http://dl.dropbox.com/u/91116541/what_red/body.jpg) repeat-x;
+	background: #000 url(https://ruku86.github.io/kyou/body.jpg) repeat-x;
 	background-position: top center;
 	background-attachment: fixed;
 	background-size: 100% 100%;	
@@ -15,12 +15,12 @@ body {
 	background-color: #f1efe9;
 	}
 	#menu ul li {
-		background-image: url(http://dl.dropbox.com/u/91116541/what_red/nav_hover_red.gif);
+		background-image: url(https://ruku86.github.io/kyou/nav_hover_red.gif);
 		background-color: #e4e0d4;
 		}
 
 	#menu ul li a {
-		background-image: url(http://dl.dropbox.com/u/91116541/what_red/nav_text_red.png);
+		background-image: url(https://ruku86.github.io/kyou/nav_text_red.png);
 		}
 
 		#menu ul li a.active, #menu ul li a:hover,
