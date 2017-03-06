@@ -128,7 +128,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 	width: 906px;
 	margin: 38px auto 0 auto;
 	border: 1px solid #d5d2ca;
-	background: #FFF;
+	background: rgba(255,255,255,.8);
 	padding: 40px 22px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
