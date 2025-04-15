@@ -653,10 +653,9 @@ ul.poll li.graph {
 	border: 0;
 }
 
-.torrent_table tr.torrent, .torrent_table tr.group {
+/* .torrent_table tr.torrent, .torrent_table tr.group {
 	font-weight:bold;
-	
-}
+} */
 
 .torrent_table tr.group {
 	background-color:#ebe9e0;
